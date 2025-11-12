@@ -118,7 +118,7 @@ __Atenção: Leia as notas de implementação para proseguir__
 ### 🖊 Autor
 
 <a href="https://github.com/HugoAPortela">
-<img style="border-radius: 50%; width: 100px" src="https://github.com/franklindrw.png" alt="Foto do Autor"/>
+<img style="border-radius: 50%; width: 100px" src="https://github.com/HugoAPortela.png" alt="Foto do Autor"/>
 <br />
 <sub><b>Hugo Andrades Portela</b></sub>
 </a>
